@@ -37,7 +37,7 @@ During this project, I also wanted to get some experience with another CSS frame
 
 ## Installation
 ------
-A working demo of this application can be seen Here(https://tdgreer1203.github.io/Random-Recipes/).
+A working demo of this application can be seen [Here](https://tdgreer1203.github.io/Random-Recipes/).
 
 
 
